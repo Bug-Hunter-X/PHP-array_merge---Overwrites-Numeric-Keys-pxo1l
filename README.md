@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in PHP related to the `array_merge()` function's behavior when dealing with arrays containing numeric keys.  The `bug.php` file shows the problematic code, while `bugSolution.php` provides a corrected version.
